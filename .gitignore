@@ -1,0 +1,6 @@
+
+*.csv
+/lgahistory.json
+/melbournedata.json
+/node_modules/
+
